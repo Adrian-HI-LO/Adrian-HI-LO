@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=600&size=20&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=false&width=680&lines=🔬+Científico+de+Datos+en+especialización+activa;+Machine+Learning+%7C+Análisis+Estadístico+%7C+MLOps;+Python+%7C+R+%7C+TensorFlow+%7C+XGBoost+%7C+SageMaker;⚙️+Backend+Engineering+con+NestJS+%2B+Docker;+Convirtiendo+datos+crudos+en+decisiones+reales)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=600&size=20&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=false&width=680&lines=🔬+Científico+de+Datos+en+especialización+activa;+Machine+Learning+%7C+Análisis+Estadístico+%7C+MLOps;+Python+%7C+R+%7C+TensorFlow+%7C+XGBoost+%7C+SageMaker;+Backend+Engineering+con+NestJS+%2B+Docker;+Convirtiendo+datos+crudos+en+decisiones+reales)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +30,7 @@ Me dedico a extraer valor de los datos: desde el análisis exploratorio y la con
 
 Mi enfoque cubre el pipeline completo de Data Science — limpieza, modelado, evaluación, validación cruzada y MLOps — con experiencia en entornos cloud (AWS SageMaker, Lambda) y sistemas distribuidos.
 
-> *"Los datos no mienten — solo necesitan quien los escuche."*
+> 
 
   </td>
   <td valign="top" width="44%">
@@ -128,9 +128,6 @@ Mi enfoque cubre el pipeline completo de Data Science — limpieza, modelado, ev
 | **[isverceo.com](https://isverceo.com)** | Plataforma de hosting desplegada en producción | Docker · Traefik · Redis · NestJS |
 | **Detector de Tumores Cerebrales** | Modelo CNN para clasificación de imágenes MRI | TensorFlow/Keras · Python |
 | **Detección de Emociones** | Clasificador de expresiones faciales en tiempo real | OpenCV · Scikit-learn |
-| **Sistema Admin Escolar** | Administración de alumnos — Preparatoria Anexa Jilotepec | Node.js · Backend Web |
-| **[Sis_Dis_Ex_1](https://github.com/Adrian-HI-LO/Sis_Dis_Ex_1)** | Microservicios con Docker, MongoDB Replica Set y NGINX | Docker · MongoDB · NGINX |
-
 </div>
 
 <br/>
@@ -189,6 +186,5 @@ Mi enfoque cubre el pipeline completo de Data Science — limpieza, modelado, ev
 
 <div align="center">
 
-*"Los datos no mienten — solo necesitan quien los escuche."*
 
 </div>
