@@ -1,81 +1,80 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gustavo%20Adrián&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20·%20Backend%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:1a1a1a&height=180&section=header&text=Gustavo%20Adrián&fontSize=58&fontColor=c9a84c&fontAlignY=38&desc=Data%20Scientist%20·%20Backend%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Adrian+%F0%9F%91%8B;Backend+Dev+%7C+Data+Analyst+%7C+ML+Explorer;Building+things+with+NestJS+%2B+Docker+%F0%9F%90%B3;Turning+raw+data+into+real+decisions+%F0%9F%93%8A;Always+learning+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&pause=1200&color=C9A84C&center=true&vCenter=true&width=620&lines=Transforming+raw+data+into+decisions.;Machine+Learning+%7C+Statistical+Analysis+%7C+MLOps;Backend+Engineering+with+NestJS+%2B+Docker;AWS+SageMaker+%7C+XGBoost+%7C+TensorFlow;Always+building.+Always+learning.)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adrian-HI-LO&color=7c3aed&style=flat-square&label=VISITAS)
-[![GitHub followers](https://img.shields.io/github/followers/Adrian-HI-LO?label=Followers&style=flat-square&color=7c3aed)](https://github.com/Adrian-HI-LO)
+![Profile Views](https://komarev.com/ghpvc/?username=Adrian-HI-LO&color=c9a84c&style=flat-square&label=VISITAS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Adrian-HI-LO?label=Followers&style=flat-square&color=c9a84c&labelColor=111111)](https://github.com/Adrian-HI-LO)
 
 </div>
 
 ---
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
-  <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0m4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4m-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10s-3.516.68-4.168 1.332c-.678.678-.83 1.418-.832 1.664z"/>
-</svg>
 
-## Sobre mí
+## About
 
 ```typescript
 const adrian = {
-  ubicacion:  "Mexico",
-  rol:        ["Data Analyst", "Backend Developer"],
-  stack:      ["NestJS", "TypeScript", "Node.js", "Docker", "Python"],
-  bd:         ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-  cloud:      ["AWS S3", "Lambda", "SageMaker"],
+  location:   "Jilotepec, México",
+  focus:      ["Data Science", "Machine Learning", "Backend Engineering"],
+  stack:      ["Python", "NestJS", "TypeScript", "Docker", "R"],
+  databases:  ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+  cloud:      ["AWS SageMaker", "Lambda", "S3"],
   ml:         ["XGBoost", "TensorFlow/Keras", "Scikit-learn"],
-  pasion:     "convertir datos en decisiones  → ",
-  estudiando: "Sistemas Distribuidos · Machine Learning en producción",
+  currently:  "Distributed Systems · ML in Production",
+  philosophy: "Data doesn't lie — it just needs someone to listen.",
 };
 ```
 
 ---
 
-## Tech Stack
+## Core Competencies
 
-### ⚙️ Backend & DevOps
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+### Data Science & Machine Learning
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=c9a84c)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a1a1a?style=flat-square&logo=scikitlearn&logoColor=c9a84c)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=flat-square&logo=tensorflow&logoColor=c9a84c)
+![XGBoost](https://img.shields.io/badge/XGBoost-1a1a1a?style=flat-square&logo=python&logoColor=c9a84c)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=flat-square&logo=pandas&logoColor=c9a84c)
+![NumPy](https://img.shields.io/badge/NumPy-1a1a1a?style=flat-square&logo=numpy&logoColor=c9a84c)
+![R](https://img.shields.io/badge/R-1a1a1a?style=flat-square&logo=r&logoColor=c9a84c)
+![Power BI](https://img.shields.io/badge/Power%20BI-1a1a1a?style=flat-square&logo=powerbi&logoColor=c9a84c)
 
-### Datos & ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+### Cloud & MLOps
+![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonaws&logoColor=c9a84c)
+![SageMaker](https://img.shields.io/badge/SageMaker-1a1a1a?style=flat-square&logo=amazonaws&logoColor=c9a84c)
+![Lambda](https://img.shields.io/badge/Lambda-1a1a1a?style=flat-square&logo=awslambda&logoColor=c9a84c)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=c9a84c)
 
-### Bases de datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### Backend & Infrastructure
+![NestJS](https://img.shields.io/badge/NestJS-1a1a1a?style=flat-square&logo=nestjs&logoColor=c9a84c)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=c9a84c)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=c9a84c)
+![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=c9a84c)
+![Traefik](https://img.shields.io/badge/Traefik-1a1a1a?style=flat-square&logo=traefikproxy&logoColor=c9a84c)
 
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=c9a84c)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=c9a84c)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=c9a84c)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-1a1a1a?style=flat-square&logo=microsoftsqlserver&logoColor=c9a84c)
 
 ---
 
-## Proyectos destacados
+## Featured Projects
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| **[isverceo.com](https://isverceo.com)** | Plataforma de hosting desplegada en producción | Docker · Traefik · Redis · NestJS |
-| **Detector de Tumores Cerebrales** | CNN para clasificación de imágenes MRI | TensorFlow/Keras · Python |
-| **Detección de Emociones** | Clasificador de expresiones faciales en tiempo real | OpenCV · Scikit-learn |
-| **Sistema Admin Escolar** | App de administración para preparatoria Anexa de Jilotepec | Node.js · Backend Web |
-| **[Sis_Dis_Ex_1](https://github.com/Adrian-HI-LO/Sis_Dis_Ex_1)** | Microservicios con Docker, MongoDB Replica Set y NGINX | Docker · MongoDB · NGINX |
+| Project | Description | Stack |
+|---|---|---|
+| **[isverceo.com](https://isverceo.com)** | Production hosting platform | Docker · Traefik · Redis · NestJS |
+| **Brain Tumor Detector** | CNN classifier for MRI imaging | TensorFlow/Keras · Python |
+| **Emotion Recognition** | Real-time facial expression classifier | OpenCV · Scikit-learn |
+| **School Admin System** | Academic management platform — Preparatoria Anexa Jilotepec | Node.js · Backend Web |
+| **[Sis_Dis_Ex_1](https://github.com/Adrian-HI-LO/Sis_Dis_Ex_1)** | Microservices with Docker, MongoDB Replica Set & NGINX | Docker · MongoDB · NGINX |
 
 ---
 
@@ -84,35 +83,37 @@ const adrian = {
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Adrian-HI-LO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Adrian-HI-LO&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&icon_color=c9a84c&text_color=888888" height="175"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-HI-LO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-HI-LO&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&text_color=888888" height="175"/>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-HI-LO&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-HI-LO&theme=dark&hide_border=true&background=0D0D0D&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=888888&dates=555555" />
 </div>
 
 ---
 
-## Educación & Certificaciones
+## Education & Certifications
 
-- **Ing. en Sistemas Computacionales** — TES Jilotepec *(Graduación est. Feb 2027)*
+- **B.Eng. Computer Systems** — TES Jilotepec *(est. graduation Feb 2027)*
 - **Machine Learning Learning Plan** — AWS Skill Builder *(2026)*
 - **Python: Machine Learning** — Udemy *(2026)*
 
 ---
 
-## Conéctate conmigo
+## Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmendozamonroy058@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adrian-HI-LO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=c9a84c)](https://linkedin.com/in/tu-linkedin)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-1a1a1a?style=flat-square&logo=gmail&logoColor=c9a84c)](mailto:gmendozamonroy058@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=c9a84c)](https://github.com/Adrian-HI-LO)
 
 </div>
 
@@ -120,8 +121,8 @@ const adrian = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:111111,100:0a0a0a&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-*"Los datos no mienten — pero sí necesitan quien los interprete."* 🔍
+*"Data doesn't lie — it just needs someone to listen."*
 
 </div>
