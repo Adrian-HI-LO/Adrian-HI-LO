@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&pause=1200&color=C9A84C&center=true&vCenter=true&width=620&lines=Transforming+raw+data+into+decisions.;Machine+Learning+%7C+Statistical+Analysis+%7C+MLOps;Backend+Engineering+with+NestJS+%2B+Docker;AWS+SageMaker+%7C+XGBoost+%7C+TensorFlow;Always+building.+Always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=18&pause=1200&color=C9A84C&center=true&vCenter=true&width=620&lines=Convirtiendo+datos+en+decisiones.;Machine+Learning+%7C+An%C3%A1lisis+Estad%C3%ADstico+%7C+MLOps;Backend+Engineering+con+NestJS+%2B+Docker;AWS+SageMaker+%7C+XGBoost+%7C+TensorFlow;Siempre+construyendo.+Siempre+aprendiendo.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,31 +16,32 @@
 
 ---
 
-## About
+## Sobre mí
 
 <table>
   <tr>
     <td valign="top" width="55%">
 
-**Data Scientist & Backend Engineer** based in Jilotepec, México.
+**Analista de Datos y Backend Developer** con base en Jilotepec, México.
 
-I turn raw, messy data into decisions that matter — combining statistical rigor with production-ready engineering. My work spans the full pipeline: from exploratory analysis and model training to deploying scalable APIs and cloud-based ML systems.
+Construyo soluciones que van del dato crudo a la decisión concreta — combinando análisis estadístico, modelos de ML y desarrollo backend con NestJS, TypeScript y Docker. Mi enfoque abarca todo el pipeline: desde el diseño de bases de datos hasta el despliegue de APIs y sistemas ML en producción.
 
-Currently deepening my expertise in **Distributed Systems** and **ML in Production**, with a focus on building systems that are not just accurate, but reliable and maintainable at scale.
+Actualmente profundizando en **Sistemas Distribuidos** y **ML en producción**, con atención especial a construir sistemas que sean precisos, escalables y mantenibles.
 
-> *"Data doesn't lie — it just needs someone to listen."*
+> *"Los datos no mienten — solo necesitan quien los escuche."*
 
   </td>
   <td valign="top" width="45%">
 
 | | |
 |---|---|
-| 📍 **Location** | Jilotepec, México |
-| 🎯 **Focus** | Data Science · MLOps |
-| 🛠️ **Core Stack** | Python · NestJS · Docker |
+| 📍 **Ubicación** | Jilotepec, México |
+| 🎯 **Enfoque** | Data Science · MLOps |
+| 🛠️ **Stack principal** | Python · NestJS · Docker |
 | ☁️ **Cloud** | AWS SageMaker · Lambda |
 | 🤖 **ML** | XGBoost · TF/Keras · Sklearn |
-| 📚 **Studying** | Distributed Systems |
+| 📚 **Estudiando** | Sistemas Distribuidos |
+| 🌐 **Idiomas** | Español nativo · Inglés B2 |
 
   </td>
   </tr>
@@ -48,7 +49,7 @@ Currently deepening my expertise in **Distributed Systems** and **ML in Producti
 
 ---
 
-## Core Competencies
+## Habilidades
 
 ### Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=c9a84c)
@@ -61,19 +62,20 @@ Currently deepening my expertise in **Distributed Systems** and **ML in Producti
 ![Power BI](https://img.shields.io/badge/Power%20BI-1a1a1a?style=flat-square&logo=powerbi&logoColor=c9a84c)
 
 ### Cloud & MLOps
+
 ![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonaws&logoColor=c9a84c)
 ![SageMaker](https://img.shields.io/badge/SageMaker-1a1a1a?style=flat-square&logo=amazonaws&logoColor=c9a84c)
 ![Lambda](https://img.shields.io/badge/Lambda-1a1a1a?style=flat-square&logo=awslambda&logoColor=c9a84c)
 ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=c9a84c)
 
-### Backend & Infrastructure
+### Backend & Infraestructura
 ![NestJS](https://img.shields.io/badge/NestJS-1a1a1a?style=flat-square&logo=nestjs&logoColor=c9a84c)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=c9a84c)
 ![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=c9a84c)
 ![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=c9a84c)
 ![Traefik](https://img.shields.io/badge/Traefik-1a1a1a?style=flat-square&logo=traefikproxy&logoColor=c9a84c)
 
-### Databases
+### Bases de datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=c9a84c)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=c9a84c)
 ![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=c9a84c)
@@ -81,45 +83,43 @@ Currently deepening my expertise in **Distributed Systems** and **ML in Producti
 
 ---
 
-## Featured Projects
+## Proyectos destacados
 
-| Project | Description | Stack |
+| Proyecto | Descripción | Stack |
 |---|---|---|
-| **[isverceo.com](https://isverceo.com)** | Production hosting platform | Docker · Traefik · Redis · NestJS |
-| **Brain Tumor Detector** | CNN classifier for MRI imaging | TensorFlow/Keras · Python |
-| **Emotion Recognition** | Real-time facial expression classifier | OpenCV · Scikit-learn |
-| **School Admin System** | Academic management platform — Preparatoria Anexa Jilotepec | Node.js · Backend Web |
-| **[Sis_Dis_Ex_1](https://github.com/Adrian-HI-LO/Sis_Dis_Ex_1)** | Microservices with Docker, MongoDB Replica Set & NGINX | Docker · MongoDB · NGINX |
+| **[isverceo.com](https://isverceo.com)** | Despliegue de plataforma de hosting en producción | Docker · Traefik · Redis · NestJS |
+| **Detector de Tumores Cerebrales** | Modelo CNN para clasificación de imágenes MRI | TensorFlow/Keras · Python |
+| **Detección de Emociones** | Clasificador de expresiones faciales en tiempo real | OpenCV · Scikit-learn |
+| **Sistema Admin Escolar** | Sistema de administración de alumnos — Preparatoria Anexa Jilotepec | Node.js · Backend Web |
+| **[Sis_Dis_Ex_1](https://github.com/Adrian-HI-LO/Sis_Dis_Ex_1)** | Microservicios con Docker, MongoDB Replica Set y NGINX | Docker · MongoDB · NGINX |
 
 ---
 
-## GitHub Activity
+## Actividad en GitHub
 
 <div align="center">
 
-[![Adrian's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adrian-HI-LO&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=c9a84c&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Adrian-HI-LO)
+[![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=Adrian-HI-LO&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=c9a84c&hide_border=true&custom_title=Actividad%20de%20Contribuciones)](https://github.com/Adrian-HI-LO)
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-HI-LO&theme=dark&hide_border=true&background=0D0D0D&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=666666&dates=555555&stroke=1a1a1a" height="160"/>
-&nbsp;&nbsp;
-![Adrian-HI-LO](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adrian-HI-LO&theme=github_dark)
 
 </div>
 
 ---
 
-## Education & Certifications
+## Educación y Certificaciones
 
-- **B.Eng. Computer Systems** — TES Jilotepec *(est. graduation Feb 2027)*
+- **Ing. en Sistemas Computacionales** — TES Jilotepec *(Graduación est. Feb 2027)*
 - **Machine Learning Learning Plan** — AWS Skill Builder *(2026)*
 - **Python: Machine Learning** — Udemy *(2026)*
 
 ---
 
-## Contact
+## Contacto
 
 <div align="center">
 
@@ -137,6 +137,6 @@ Currently deepening my expertise in **Distributed Systems** and **ML in Producti
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:111111,100:0a0a0a&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-*"Data doesn't lie — it just needs someone to listen."*
+*"Los datos no mienten — solo necesitan quien los escuche."*
 
 </div>
