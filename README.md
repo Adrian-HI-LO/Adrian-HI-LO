@@ -18,18 +18,33 @@
 
 ## About
 
-```typescript
-const adrian = {
-  location:   "Jilotepec, México",
-  focus:      ["Data Science", "Machine Learning", "Backend Engineering"],
-  stack:      ["Python", "NestJS", "TypeScript", "Docker", "R"],
-  databases:  ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-  cloud:      ["AWS SageMaker", "Lambda", "S3"],
-  ml:         ["XGBoost", "TensorFlow/Keras", "Scikit-learn"],
-  currently:  "Distributed Systems · ML in Production",
-  philosophy: "Data doesn't lie — it just needs someone to listen.",
-};
-```
+<table>
+  <tr>
+    <td valign="top" width="55%">
+
+**Data Scientist & Backend Engineer** based in Jilotepec, México.
+
+I turn raw, messy data into decisions that matter — combining statistical rigor with production-ready engineering. My work spans the full pipeline: from exploratory analysis and model training to deploying scalable APIs and cloud-based ML systems.
+
+Currently deepening my expertise in **Distributed Systems** and **ML in Production**, with a focus on building systems that are not just accurate, but reliable and maintainable at scale.
+
+> *"Data doesn't lie — it just needs someone to listen."*
+
+  </td>
+  <td valign="top" width="45%">
+
+| | |
+|---|---|
+| 📍 **Location** | Jilotepec, México |
+| 🎯 **Focus** | Data Science · MLOps |
+| 🛠️ **Core Stack** | Python · NestJS · Docker |
+| ☁️ **Cloud** | AWS SageMaker · Lambda |
+| 🤖 **ML** | XGBoost · TF/Keras · Sklearn |
+| 📚 **Studying** | Distributed Systems |
+
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -88,7 +103,9 @@ const adrian = {
 
 <div align="center">
 
-![Adrian-HI-LO](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrian-HI-LO&theme=github_dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-HI-LO&theme=dark&hide_border=true&background=0D0D0D&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=666666&dates=555555&stroke=1a1a1a" height="160"/>
+&nbsp;&nbsp;
+![Adrian-HI-LO](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adrian-HI-LO&theme=github_dark)
 
 </div>
 
