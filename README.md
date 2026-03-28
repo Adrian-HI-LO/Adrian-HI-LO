@@ -78,21 +78,18 @@ const adrian = {
 
 ---
 
-## GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Adrian-HI-LO&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&icon_color=c9a84c&text_color=888888" height="175"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-HI-LO&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=c9a84c&text_color=888888" height="175"/>
-    </td>
-  </tr>
-</table>
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-HI-LO&theme=dark&hide_border=true&background=0D0D0D&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=888888&dates=555555" />
+
+[![Adrian's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adrian-HI-LO&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=c9a84c&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Adrian-HI-LO)
+
+</div>
+
+<div align="center">
+
+![Adrian-HI-LO](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adrian-HI-LO&theme=github_dark)
+
 </div>
 
 ---
