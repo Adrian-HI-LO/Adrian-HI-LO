@@ -72,19 +72,6 @@ Mi enfoque cubre el pipeline completo de Data Science — limpieza, modelado, ev
 
 </div>
 
-<br/>
-
-```
-  Análisis Estadístico     ████████████████████░░░░  Avanzado
-  Machine Learning         ███████████████████░░░░░░  Avanzado
-  Deep Learning / CNNs     ██████████████░░░░░░░░░░░  Intermedio+
-  MLOps / Pipelines        ████████████░░░░░░░░░░░░░  Intermedio
-  Visualización de datos   ████████████████████░░░░░  Avanzado
-  NLP                      ████████░░░░░░░░░░░░░░░░░  Básico+
-```
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1509&height=3&animation=fadeIn" width="100%"/>
 
 ## 〔 Stack Completo 〕
@@ -126,6 +113,7 @@ Mi enfoque cubre el pipeline completo de Data Science — limpieza, modelado, ev
 | Proyecto | Descripción | Stack |
 |:--|:--|:--|
 | **[isverceo.com](https://isverceo.com)** | Plataforma de hosting desplegada en producción | Docker · Traefik · Redis · NestJS |
+| **Prediccion De Credito** | Modelo de ML para la prediccion de una inferencia bancaria por parte de un cliente | XGBoost, SageMaker, S3 · Python |
 | **Detector de Tumores Cerebrales** | Modelo CNN para clasificación de imágenes MRI | TensorFlow/Keras · Python |
 | **Detección de Emociones** | Clasificador de expresiones faciales en tiempo real | OpenCV · Scikit-learn |
 </div>
@@ -133,22 +121,6 @@ Mi enfoque cubre el pipeline completo de Data Science — limpieza, modelado, ev
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1509&height=3&animation=fadeIn" width="100%"/>
-
-## 〔 Actividad en GitHub 〕
-
-<div align="center">
-
-[![Actividad de contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=Adrian-HI-LO&bg_color=0a0a0a&color=c9a84c&line=c9a84c&point=c9a84c&area=true&area_color=1a1509&hide_border=true&custom_title=Actividad%20de%20Contribuciones&title_color=c9a84c&radius=4)](https://github.com/Adrian-HI-LO)
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrian-HI-LO&theme=dark&hide_border=true&background=0A0A0A&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=666666&dates=555555&stroke=1a1a1a&currStreakNum=ffffff&sideNums=888888" height="165"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1509,100:0a0a0a&height=3&animation=fadeIn" width="100%"/>
 
 ## 〔 Educación y Certificaciones 〕
 
@@ -158,6 +130,10 @@ Mi enfoque cubre el pipeline completo de Data Science — limpieza, modelado, ev
 |:--|:--|
 | **Ing. en Sistemas Computacionales** | TES Jilotepec — *Graduación est. Feb 2027* |
 | **Machine Learning Learning Plan** | AWS Skill Builder — *2026* |
+| **Certificacion de Analisis de Datos de Google** | Coursera - *2026* |
+| **Excel Avanzado** | Udemy - *2026* |
+| **Excel para Analisis de Datos** | Udemy - *2026* |
+| **SQL** | Udemy - *2026* |
 | **Python: Machine Learning** | Udemy — *2026* |
 
 </div>
